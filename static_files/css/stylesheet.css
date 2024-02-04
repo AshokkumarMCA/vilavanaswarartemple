@@ -1,0 +1,38 @@
+body
+#topbar
+{background-color:navy;height:5px;width:100%}
+#header 
+{margin-left:15px;
+font-size:30px;color:white}
+#header img  
+{height:70px;width:10%;padding-bottom:2px}
+#navibar
+{height:30px;
+width:100%;
+margin:0px auto;
+background-color:red;}
+#navibar ul li
+{display:inline; 
+}
+#navibar ul li a
+{text-decoration:none;
+margin-right:10px;
+}
+
+#banner
+{height:70px;
+width:100%;
+margin:0px auto;}
+#banner img
+{height:150px; width:35%;float:left;
+}
+#mandra
+{text-align:center;color:aqua;text-align:justify;}
+#mandra h2 {color:red}
+#mandra address {text-align:right;color:black;}
+#mandra address {text-align:right}
+button {margin:5px}
+.text1 {color: green ;text-align:center;}
+#story img {width:30%;height:205px;}
+h2
+{text-align:center;}
